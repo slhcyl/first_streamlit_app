@@ -5,4 +5,5 @@ st.title('My Parents New Healthy Diner')
 st.header('Breakfast Menu')
 
 st.caption('Omega 3.')
-st.caption('Kale')
+st.text('Kale')
+st.text('Egg')
